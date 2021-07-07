@@ -1,0 +1,17 @@
+form{
+    width: 500px;
+}
+
+form button{
+    margin: 10px;
+    margin-top: 5px;
+}
+
+body{
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(220, 243, 243);
+}
